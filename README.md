@@ -460,6 +460,7 @@ Where that JSON lives, and which extra keys it takes, differs per client -- chec
 
 | Server | Description | Language |
 |--------|-------------|----------|
+| [AgentSEO MCP](https://github.com/AgentSEO-dev/agentseo-clients) | Keyword, SERP, rank, backlink and AI-visibility research for SEO and AEO | TypeScript |
 | [BulkPublish MCP](https://github.com/azeemkafridi/bulkpublish-api) | AI-agent API and MCP server for multi-platform social publishing and analytics | TypeScript |
 | [DataForSEO MCP](https://github.com/dataforseo/mcp-server-typescript) | Official DataForSEO server for SERP, keyword and backlink data | TypeScript |
 | [Google Analytics MCP](https://github.com/surendranb/google-analytics-mcp) | GA4 data for AI agents | Python |
