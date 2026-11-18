@@ -290,6 +290,7 @@ Where that JSON lives, and which extra keys it takes, differs per client -- chec
 | [HuggingFace MCP](https://github.com/huggingface/hf-mcp-server) | Official HF Hub models, datasets, Spaces | TypeScript |
 | [LangChain MCP Adapters](https://github.com/langchain-ai/langchain-mcp-adapters) | Official LangChain / LangGraph MCP bridge | Python |
 | [prompt-to-asset](https://github.com/MohamedAbdallah-14/prompt-to-asset) | Image generation across 30+ models via unified API | TypeScript |
+| [QuelLLM MCP](https://quelllm.fr/) | Explore and compare open-weight LLMs with memory and hardware cost estimates | Python |
 | [Replicate MCP](https://replicate.com/docs/reference/mcp) | Official Replicate hosted MCP server | Remote |
 | [RouterBase MCP](https://github.com/zenlee123/routerbase-mcp) | Model discovery, pricing lookup and OpenAI-compatible chat completions | TypeScript |
 | [RunAPI MCP](https://github.com/runapi-ai/mcp) | Model discovery, pricing lookup, task creation, and LLM chat | TypeScript |
